@@ -1,0 +1,16 @@
+Period;Trade Flow;Reporter;Partner;2nd Partner;Customs Desc;Transport Mode;Commodity Code;Trade Value (US$);Net Weight(kg);Gross Weight;Qty Unit;Qty;Alternate Quantity unit;Alternate Quantity
+Filter by Period;Filter by Trade Flow;Filter by Reporter;Filter by Partner;Filter by 2nd Partner;Filter by Customs Desc;Filter by Transport Mode;Filter by Commodity Code;Filter by Trade Value (US$);Filter by Net Weight(kg);Filter by Gross Weight;Filter by Qty Unit;Filter by Qty;Filter by Alternate Quantity unit;Filter by Alternate Quantity
+2012;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$153,087;81017;;kg;81017;kg;81017
+2013;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$47,540;25000;;kg;25000;kg;25000
+2014;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$128,565;54063;;kg;54063;kg;54063
+2015;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$383,212;157973;;kg;157973;kg;157973
+2016;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$319,890;155983;;kg;155983;kg;155983
+2017;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$239,296;131070;;kg;131070;kg;131070
+2018;M;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$1,856;49;;kg;49;kg;49
+2018;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$275,471;156400;;kg;156400;kg;156400
+2019;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$190,098;130000;;kg;130000;kg;130000
+2020;M;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$1,760;650;;kg;650;kg;650
+2020;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$233,733;156000;;kg;156000;kg;156000
+2021;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$108,455;78000;;kg;78000;kg;78000
+2022;X;Chile;Thailand;World;TOTAL CPC;TOTAL MOT;121229;$107,600;52000;;kg;52000;kg;52000
+

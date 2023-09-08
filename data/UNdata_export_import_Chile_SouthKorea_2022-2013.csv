@@ -1,0 +1,23 @@
+Period;Trade Flow;Reporter;Partner;2nd Partner;Customs Desc;Transport Mode;Commodity Code;Trade Value (US$);Net Weight(kg);Gross Weight;Qty Unit;Qty;Alternate Quantity unit;Alternate Quantity
+Filter by Period;Filter by Trade Flow;Filter by Reporter;Filter by Partner;Filter by 2nd Partner;Filter by Customs Desc;Filter by Transport Mode;Filter by Commodity Code;Filter by Trade Value (US$);Filter by Net Weight(kg);Filter by Gross Weight;Filter by Qty Unit;Filter by Qty;Filter by Alternate Quantity unit;Filter by Alternate Quantity
+2012;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$90,863;9024;;kg;9024;kg;9024
+2012;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$743,367;385534;;kg;385534;kg;385534
+2013;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$140,526;10302;;kg;10302;kg;10302
+2013;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$596,134;183676;;kg;183676;kg;183676
+2014;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$66,618;4108;;kg;4108;kg;4108
+2014;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$1,922,433;483065;;kg;483065;kg;483065
+2015;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$9,981;4206;;kg;4206;kg;4206
+2015;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$854,871;278322;;kg;278322;kg;278322
+2016;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$1,294,437;542067;;kg;542067;kg;542067
+2017;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$180,967;5760;;kg;5760;kg;5760
+2017;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$1,383,912;572010;;kg;572010;kg;572010
+2018;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$812,928;304310;;kg;304310;kg;304310
+2019;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$81,462;3162;;kg;3162;kg;3162
+2019;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$606,737;333849;;kg;333849;kg;333849
+2020;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$431;79;;kg;79;kg;79
+2020;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$1,393,236;844917;;kg;844917;kg;844917
+2021;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$2,446;115;;kg;115;kg;115
+2021;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$980,958;526645;;kg;526645;kg;526645
+2022;M;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$27,135;7276;;kg;7276;kg;7276
+2022;X;Chile;Rep. of Korea;World;TOTAL CPC;TOTAL MOT;121229;$1,598,174;688559;;kg;688559;kg;688559
+
