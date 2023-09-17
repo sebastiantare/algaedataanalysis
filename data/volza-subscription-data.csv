@@ -1,0 +1,2036 @@
+{
+	"userSubscriptionSearchDateList": [
+		{
+			"SearchStartDate": "2014-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 1,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 103
+		},
+		{
+			"SearchStartDate": "2014-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 1,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 103
+		},
+		{
+			"SearchStartDate": "2011-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53195,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 248
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53181,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 46
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53192,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 212
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53178,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 10
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53178,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 10
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53179,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 26
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53180,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 45
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53180,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 45
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53181,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 46
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53182,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 50
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53182,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 50
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53183,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 54
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53183,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 54
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53184,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 67
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53184,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 67
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53185,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 143
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53185,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 143
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53186,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 169
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53187,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 171
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 5318,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 171
+		},
+		{
+			"SearchStartDate": "2016-01-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53188,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 173
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53188,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 173
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53189,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 174
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53190,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53190,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53191,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 184
+		},
+		{
+			"SearchStartDate": "2015-12-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53191,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 184
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53192,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 212
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53193,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 243
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53193,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 243
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53194,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 249
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53194,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 249
+		},
+		{
+			"SearchStartDate": "2014-02-05T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53195,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 248
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53196,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 255
+		},
+		{
+			"SearchStartDate": "2011-01-12T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53196,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 255
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53207,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 31
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53207,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 31
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53208,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 73
+		},
+		{
+			"SearchStartDate": "2012-10-03T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53208,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 73
+		},
+		{
+			"SearchStartDate": "2016-03-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53209,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 202
+		},
+		{
+			"SearchStartDate": "2016-03-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53209,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 202
+		},
+		{
+			"SearchStartDate": "2016-01-01T01:06:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53210,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 134
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:15:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53210,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 134
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 5,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 103
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 5,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 103
+		},
+		{
+			"SearchStartDate": "2016-01-10T16:15:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53211,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 68
+		},
+		{
+			"SearchStartDate": "2016-02-17T19:30:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53211,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 68
+		},
+		{
+			"SearchStartDate": "2016-01-01T09:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53212,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 18
+		},
+		{
+			"SearchStartDate": "2016-01-02T14:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53212,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 18
+		},
+		{
+			"SearchStartDate": "2016-01-07T16:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53213,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 105
+		},
+		{
+			"SearchStartDate": "2016-03-05T16:15:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53214,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 106
+		},
+		{
+			"SearchStartDate": "2016-02-19T02:20:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53215,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 118
+		},
+		{
+			"SearchStartDate": "2012-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53216,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 167
+		},
+		{
+			"SearchStartDate": "2014-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53246,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 195
+		},
+		{
+			"SearchStartDate": "2016-01-02T09:55:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53246,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 195
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53217,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 14
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53218,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 21
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53219,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 36
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53220,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 56
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53221,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 59
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53222,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 60
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53223,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 62
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53224,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 72
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53225,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 77
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53226,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 78
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53227,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 85
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53228,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 88
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53229,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 101
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53230,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 107
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53231,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 109
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53232,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 121
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53233,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 127
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53234,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 128
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53235,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 138
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53236,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 155
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53237,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 177
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53238,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 178
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53239,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 183
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53240,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 204
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53241,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 205
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53242,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 210
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53243,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 221
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53244,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 245
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53245,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53217,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 14
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53218,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 21
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53219,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 36
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53220,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 56
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53221,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 59
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53222,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 60
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53223,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 62
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53224,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 72
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53225,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 77
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53226,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 78
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53227,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 85
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53228,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 88
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53229,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 101
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53230,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 107
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53231,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 109
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53232,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 121
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53233,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 127
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53234,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 128
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53235,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 138
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53236,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 155
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53237,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 177
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53238,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 178
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53239,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 183
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53240,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 204
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53241,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 205
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53242,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 210
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53243,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 221
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53244,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 245
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53245,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2016-01-07T16:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53247,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 244
+		},
+		{
+			"SearchStartDate": "2016-01-03T21:10:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53247,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 244
+		},
+		{
+			"SearchStartDate": "2016-01-24T13:30:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53248,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 237
+		},
+		{
+			"SearchStartDate": "2016-01-31T15:50:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53248,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 237
+		},
+		{
+			"SearchStartDate": "2016-01-02T09:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53250,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 155
+		},
+		{
+			"SearchStartDate": "2016-01-06T04:30:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53250,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 155
+		},
+		{
+			"SearchStartDate": "2016-01-03T17:18:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53251,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 85
+		},
+		{
+			"SearchStartDate": "2016-01-07T13:22:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53251,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 85
+		},
+		{
+			"SearchStartDate": "2016-01-02T17:48:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53249,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 21
+		},
+		{
+			"SearchStartDate": "2016-01-05T04:33:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53249,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 21
+		},
+		{
+			"SearchStartDate": "2016-01-03T17:18:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53259,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 210
+		},
+		{
+			"SearchStartDate": "2016-01-10T09:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53259,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 210
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53252,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 10
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53252,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 10
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53253,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 50
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53253,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 50
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53254,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 26
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53255,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 45
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53255,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 45
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53256,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 54
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53256,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 54
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53257,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 67
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53257,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 67
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53258,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 73
+		},
+		{
+			"SearchStartDate": "2012-10-03T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53258,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 73
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53260,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 143
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53260,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 143
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53261,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 169
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53262,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 171
+		},
+		{
+			"SearchStartDate": "2016-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53262,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 171
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53263,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 173
+		},
+		{
+			"SearchStartDate": "2016-01-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53263,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 173
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53264,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 174
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53264,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 174
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53265,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53265,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53266,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 212
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53266,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 212
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53267,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 249
+		},
+		{
+			"SearchStartDate": "2015-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53267,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 249
+		},
+		{
+			"SearchStartDate": "2011-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53268,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 248
+		},
+		{
+			"SearchStartDate": "2014-02-05T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53268,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 248
+		},
+		{
+			"SearchStartDate": "2011-01-12T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53269,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 255
+		},
+		{
+			"SearchStartDate": "2016-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53269,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 255
+		},
+		{
+			"SearchStartDate": "2016-01-01T01:45:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53270,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 46
+		},
+		{
+			"SearchStartDate": "2016-01-01T10:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53270,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 46
+		},
+		{
+			"SearchStartDate": "2017-08-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53271,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 174
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53271,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 174
+		},
+		{
+			"SearchStartDate": "2016-01-04T17:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55082,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 228
+		},
+		{
+			"SearchStartDate": "2016-01-01T23:45:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55082,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 228
+		},
+		{
+			"SearchStartDate": "2018-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55083,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 113
+		},
+		{
+			"SearchStartDate": "2018-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55085,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 242
+		},
+		{
+			"SearchStartDate": "2018-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55085,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 242
+		},
+		{
+			"SearchStartDate": "2018-01-01T11:43:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55086,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 114
+		},
+		{
+			"SearchStartDate": "2018-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55093,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 93
+		},
+		{
+			"SearchStartDate": "2018-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55093,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 93
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55095,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 3
+		},
+		{
+			"SearchStartDate": "2016-01-04T03:18:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55096,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 13
+		},
+		{
+			"SearchStartDate": "2017-01-01T06:55:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55097,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 17
+		},
+		{
+			"SearchStartDate": "2016-03-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55098,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 41
+		},
+		{
+			"SearchStartDate": "2016-01-02T01:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55099,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 63
+		},
+		{
+			"SearchStartDate": "2017-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55100,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 86
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55101,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 104
+		},
+		{
+			"SearchStartDate": "2016-01-14T16:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55102,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 111
+		},
+		{
+			"SearchStartDate": "2016-01-01T09:50:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55103,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 181
+		},
+		{
+			"SearchStartDate": "2016-01-08T13:35:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55104,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 164
+		},
+		{
+			"SearchStartDate": "2016-02-13T06:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55105,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 180
+		},
+		{
+			"SearchStartDate": "2016-03-22T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55106,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 225
+		},
+		{
+			"SearchStartDate": "2015-07-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55107,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 256
+		},
+		{
+			"SearchStartDate": "2016-01-01T11:48:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55096,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 13
+		},
+		{
+			"SearchStartDate": "2016-01-02T09:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55098,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 41
+		},
+		{
+			"SearchStartDate": "2017-01-06T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55100,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 86
+		},
+		{
+			"SearchStartDate": "2015-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55101,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 104
+		},
+		{
+			"SearchStartDate": "2016-01-06T05:15:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55102,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 111
+		},
+		{
+			"SearchStartDate": "2016-01-05T08:50:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55103,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 181
+		},
+		{
+			"SearchStartDate": "2016-01-10T16:15:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55104,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 164
+		},
+		{
+			"SearchStartDate": "2016-01-02T01:12:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55106,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 225
+		},
+		{
+			"SearchStartDate": "2015-07-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55107,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 256
+		},
+		{
+			"SearchStartDate": "2016-01-06T13:30:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55108,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 62
+		},
+		{
+			"SearchStartDate": "2016-01-18T06:49:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55108,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 62
+		},
+		{
+			"SearchStartDate": "2016-02-07T11:30:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55109,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 77
+		},
+		{
+			"SearchStartDate": "2016-01-19T18:45:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55109,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 77
+		},
+		{
+			"SearchStartDate": "2016-01-29T20:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55110,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 78
+		},
+		{
+			"SearchStartDate": "2016-01-01T11:48:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55110,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 78
+		},
+		{
+			"SearchStartDate": "2016-01-06T18:40:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55111,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 88
+		},
+		{
+			"SearchStartDate": "2016-06-23T09:20:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55111,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 88
+		},
+		{
+			"SearchStartDate": "2016-01-26T09:15:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55112,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 109
+		},
+		{
+			"SearchStartDate": "2016-01-03T06:58:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55112,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 109
+		},
+		{
+			"SearchStartDate": "2016-01-16T02:55:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55113,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2016-04-08T07:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55113,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2016-01-08T07:06:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55114,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 245
+		},
+		{
+			"SearchStartDate": "2016-01-01T23:45:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55114,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 245
+		},
+		{
+			"SearchStartDate": "2011-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55153,
+			"IsImport": true,
+			"IsRare": true,
+			"GlobalCountryId": 212
+		},
+		{
+			"SearchStartDate": "2016-02-26T01:36:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55153,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 212
+		},
+		{
+			"SearchStartDate": "2019-01-11T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56129,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 256
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56158,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56158,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 175
+		},
+		{
+			"SearchStartDate": "2019-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55143,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 104
+		},
+		{
+			"SearchStartDate": "2019-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55143,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 104
+		},
+		{
+			"SearchStartDate": "2016-01-04T18:42:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 53186,
+			"IsImport": false,
+			"IsRare": true,
+			"GlobalCountryId": 169
+		},
+		{
+			"SearchStartDate": "2020-05-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55151,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 103
+		},
+		{
+			"SearchStartDate": "2020-05-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55151,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 103
+		},
+		{
+			"SearchStartDate": "2019-10-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56129,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 256
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56164,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 169
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56164,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 169
+		},
+		{
+			"SearchStartDate": "2019-10-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56165,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 18
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56177,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 153
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56177,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 153
+		},
+		{
+			"SearchStartDate": "2019-10-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56165,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 18
+		},
+		{
+			"SearchStartDate": "2019-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": -9999,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2019-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": -9999,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56195,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 123
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56195,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 123
+		},
+		{
+			"SearchStartDate": "2021-01-02T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56193,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56193,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56194,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56194,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-03T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56201,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56201,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-04-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56202,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-04-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56202,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2020-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56203,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2016-10-15T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56203,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56208,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-04T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56206,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56207,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56209,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56205,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T01:14:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56208,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56205,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56210,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2021-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56210,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2019-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56211,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2019-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56211,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56216,
+			"IsImport": true,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56216,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 55083,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 113
+		},
+		{
+			"SearchStartDate": "2022-01-03T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56207,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		},
+		{
+			"SearchStartDate": "2022-01-01T00:00:00",
+			"SearchEndDate": "2021-12-31T00:00:00",
+			"DataTypeId": 56209,
+			"IsImport": false,
+			"IsRare": false,
+			"GlobalCountryId": 0
+		}
+	]
+}7
